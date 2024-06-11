@@ -1,0 +1,32 @@
+{
+  "name": "i18time",
+  "description": "A javascript package for working with Date objects",
+  "version": "1.0.1",
+  "homepage": "https://www.npmjs.com/package/i18time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ddung203/i18time.git"
+  },
+  "author": "Cuoi Cuoi <cuoicuoi1000@gmail.com>",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18time",
+    "i18n",
+    "time",
+    "date",
+    "date-time",
+    "date"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddung203/i18time/issues"
+  },
+  "dependencies": {}
+}
