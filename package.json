@@ -1,7 +1,7 @@
 {
   "name": "i18time",
   "description": "A javascript package for working with Date objects",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "homepage": "https://www.npmjs.com/package/i18time",
   "repository": {
     "type": "git",
@@ -9,10 +9,8 @@
   },
   "author": "Cuoi Cuoi <cuoicuoi1000@gmail.com>",
   "main": "index.js",
-  "types": "index.d.ts",
   "files": [
     "index.js",
-    "index.d.ts",
     "README.md"
   ],
   "scripts": {
@@ -28,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/Ddung203/i18time/issues"
   },
-  "devDependencies": {
-    "@types/node": "^20.14.2",
-    "typescript": "^5.4.5"
-  }
+  "dependencies": {}
 }
