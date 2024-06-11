@@ -9,8 +9,10 @@
   },
   "author": "Cuoi Cuoi <cuoicuoi1000@gmail.com>",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
     "index.js",
+    "index.d.ts",
     "README.md"
   ],
   "scripts": {
@@ -18,15 +20,16 @@
   },
   "keywords": [
     "i18time",
-    "i18n",
     "time",
     "date",
-    "date-time",
-    "date"
+    "date-time"
   ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ddung203/i18time/issues"
   },
-  "dependencies": {}
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
 }
